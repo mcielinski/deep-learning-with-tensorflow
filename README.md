@@ -1,5 +1,5 @@
 # deep-learning-with-tensorflow
-Assignments for the Deep Learning course. Tensorflow library was used to solve the tasks.
+Assignments for the Deep Learning course at WUST (Wroclaw University of Science and Technology). Tensorflow library was used to solve the tasks.
 
 1. MLP
 	* Implementation of the basic architecture of the Multilayer Perceptron and exploration of the effect of hyperparameters on learning and on the quality of the obtained results. The network solves the problem of image classification from a set of architectural styles.
